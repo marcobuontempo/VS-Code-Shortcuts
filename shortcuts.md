@@ -39,18 +39,17 @@ BASIC EDITING
     3. ...
     4. ...
     5. Press Ctrl+V while text cursor is on the line below:
-    1. Press Ctrl+C while text cursor is on this line
 
 
 
 # Move Line Up or Down
 ( Alt+ ↑ / ↓ )
 <!-- Cuts an entire line (if nothing is already selected) and moves it up/down 1 line -->
-    5. Press Alt+↑ while cursor is on this line
+    1. Press Alt+↓ while cursor is on this line
     2. ...
     3. ...
-    1. Press Alt+↓ while cursor is on this line
     4. ...
+    5. Press Alt+↑ while cursor is on this line
 
 
 
@@ -58,15 +57,9 @@ BASIC EDITING
 ( Shift+Alt+ ↑ / ↓ )
 <!-- Copies an entire line (if nothing is already selected) and moves it up/down 1 line -->
     1. Press Shift+Alt+↓ while cursor is on this line
-    1. Press Shift+Alt+↓ while cursor is on this line
-    1. Press Shift+Alt+↓ while cursor is on this line
-    1. Press Shift+Alt+↓ while cursor is on this line
     2. ...
     3. ...
     4. ...
-    5. Press Shift+Alt+↑ while cursor is on this line
-    5. Press Shift+Alt+↑ while cursor is on this line
-    5. Press Shift+Alt+↑ while cursor is on this line
     5. Press Shift+Alt+↑ while cursor is on this line
 
 
@@ -85,14 +78,14 @@ BASIC EDITING
 # Indent / Outdent Cursor
 ( Tab / Shift+Tab )
 <!-- Indents or Outdents a line of code -->
-    1. Press Tab while text         cursor is in the middle of this line
+    1. Press Tab while text cursor is in the middle of this line
     2. Press Shift+Tab while text cursor is in the middle of this line
 
 
 # Indent / Outdent Line
 ( Ctrl+ ] / [ )
 <!-- Indents or Outdents a line of code -->
-            1. Press Ctrl+] while text cursor is in the middle of this line
+    1. Press Ctrl+] while text cursor is in the middle of this line
     2. Press Ctrl+[ while text cursor is in the middle of this line
 
 
@@ -104,7 +97,7 @@ BASIC EDITING
 
 # Toggle Line Comment
 ( Ctrl+/ )
-<!-- Toggles a line of code to comment/uncomment. Press Ctrl+/ while text cursor is on this line -->
+    Toggles a line of code to comment/uncomment. Press Ctrl+/ while text cursor is on this line
 
 
 
@@ -128,26 +121,26 @@ MULTI-CURSOR SELECTION
 ( Alt + Click )
 <!-- Creates an additional text cursor -->
     1. Hold Alt and click within the parentheses of each line below, then type "Hello World"
-    2. ....(Hello World)..(Hello World)..
-    3. ..(Hello World)........
-    4. .......(Hello World)...
-    5. (Hello World)........(Hello World)
+    2. ....()..()..
+    3. ..()........
+    4. .......()...
+    5. ()........()
 
 
 # Insert Cursor Above/Below
 ( Ctrl+Alt+ ↑ / ↓ )
 <!-- Creates an additional text cursor above or below -->
     Place text cursor on the line below, then hold Ctrl+Alt and press ↓
-    1. I just wrote 10 lines of code
-    2. I just wrote 10 lines of code
-    3. I just wrote 10 lines of code
-    4. I just wrote 10 lines of code 
-    5. I just wrote 10 lines of code
-    6. I just wrote 10 lines of code
-    7. I just wrote 10 lines of code
-    8. I just wrote 10 lines of code
-    9. I just wrote 10 lines of code
-    10.I just wrote 10 lines of code
+    1. 
+    2. 
+    3. 
+    4.  
+    5. 
+    6. 
+    7. 
+    8. 
+    9. 
+    10.
 
 
 

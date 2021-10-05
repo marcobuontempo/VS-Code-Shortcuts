@@ -3,7 +3,7 @@
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 # Useful VSCode Productivity Tutorial
-https://www.youtube.com/watch?v=ifTF3ags0XI&t=605s
+https://www.youtube.com/watch?v=ifTF3ags0XI
 
 
 GENERAL
